@@ -587,6 +587,7 @@ footer {
     font-size: 2rem;
     background: transparent;
     cursor: pointer;
+    color: var(--color-white);
   }
 
   #nav__toggle-close {
@@ -744,8 +745,6 @@ footer {
   .header__title {
     margin-top: 1rem;
   }
-
-
   .about__container {
     grid-template-columns: 1fr;
     gap:2rem
