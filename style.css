@@ -587,7 +587,6 @@ footer {
     font-size: 2rem;
     background: transparent;
     cursor: pointer;
-    color: var(--color-white);
   }
 
   #nav__toggle-close {
